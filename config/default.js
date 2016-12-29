@@ -1,4 +1,4 @@
-modules.exports = {
+module.exports = {
 	port: 3000,
 	session: {
 		secret: 'myblog',
